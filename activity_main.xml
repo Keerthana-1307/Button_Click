@@ -1,3 +1,5 @@
+//first go to app/src/main/res/layout/activity_main.xml//
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
    android:orientation="vertical"
    android:gravity="center"
